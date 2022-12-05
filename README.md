@@ -15,7 +15,7 @@
 <!-- PROJECT ABOUT
 --------------------------------------------------------------------->
 ## 📝 Sobre
-O design do projeto Lobo foi criado utilizando a ferramenta Figma, durante o curso de UI/UI Design, e então, foi desenvolvido durante o curso de HTML e CSS da Origamid.
+O design do projeto Lobo foi criado utilizando a ferramenta Figma, durante o curso de UI/UX Design, e então, foi desenvolvido durante o curso de HTML e CSS da Origamid.
 
 <!-- PROJECT TECHS
 --------------------------------------------------------------------->
