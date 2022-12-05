@@ -319,11 +319,11 @@ body {
 }
 
 #education section #extra #extra-courses h3::before {
-    background: url("./img/cursos.svg");
+    background: url("./imgs/cursos.svg");
 }
 
 #education section #extra #extra-langs h3::before {
-    background: url("./img/idiomas.svg");
+    background: url("./imgs/idiomas.svg");
 }
 
 #education section #extra section ul li {
